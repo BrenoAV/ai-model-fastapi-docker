@@ -66,7 +66,7 @@ But before, we need an image with a digit to test our network. I'll use the [Pix
 - **Optional:** You can create a `new layer` with you want to draw above the background, and you can erase without changing the background layer.
 - Draw a digit and click on `file` &rarr; `export/download` and choose a directory to save the image (doesn't need to be in the same directory as the model)
 
-![Example of digit](imgs/pixil-art-2.png)
+![Example of digit](imgs/pixil-art-2)
 
 # Testing API
 
